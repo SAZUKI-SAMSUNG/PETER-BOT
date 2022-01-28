@@ -18,10 +18,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+02irdICknwJkYzc5')
+                InlineKeyboardButton(' 𝙶𝚁𝚄𝙾𝙿 ', url='https://t.me/+02irdICknwJkYzc5')
             ],
             [
-                InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
+                InlineKeyboardButton(' 𝙷𝙴𝙻𝙿 ', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -37,15 +37,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('⚜️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚜️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton(' 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝙰 𝙲𝙷𝙰𝚃 𝙶𝚁𝚄𝙾𝙿 ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+02irdICknwJkYzc5'),
-            InlineKeyboardButton('💠 CHAИИΞL 💠', url='https://t.me/TEAMSAZUKI')
+            InlineKeyboardButton(' 𝙶𝚁𝚄𝙾𝙾 ', url='https://t.me/+02irdICknwJkYzc5'),
+            InlineKeyboardButton(' 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ', url='https://t.me/TEAMSAZUKI')
             ],[
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton(' 𝙷𝙴𝙻𝙿 ', callback_data='help'),
+            InlineKeyboardButton(' 𝙰𝙱𝙾𝚄𝚃', callback_data='about')
             ],[
-            InlineKeyboardButton('🔰 INLINΞ FILMA 🔰', switch_inline_query_current_chat='')
+            InlineKeyboardButton(' 𝙸𝙽𝙻𝙸𝙽𝙴  ', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -64,7 +64,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔥 JOIИ CHAИИΞL 🔥", url=invite_link.invite_link
+                    "🔥 𝙹𝙾𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🔥", url=invite_link.invite_link
                 )
             ]
         ]
