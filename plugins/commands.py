@@ -42,12 +42,10 @@ async def start(client, message):
             InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+02irdICknwJkYzc5'),
             InlineKeyboardButton('💠 CHAИИΞL 💠', url='https://t.me/TEAMSAZUKI')
             ],[
-            InlineKeyboardButton('💰 𝗗𝗢𝗡𝗔𝗧𝗘 💰', callback_data='source')
-            ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('💠 SΞARCH HΞRΞ 💠', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔰 INLINΞ FILMA 🔰', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
