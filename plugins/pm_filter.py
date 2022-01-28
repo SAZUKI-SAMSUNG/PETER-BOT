@@ -359,7 +359,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('Check PM, I have sent files in pm',show_alert = True)
+                await query.answer('നിന്റെ ᴘᴍ നോക്ക് ഈ ഫയൽ ഞാൻ അവിടെ തരാം🌹 ',show_alert = True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
@@ -400,8 +400,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚜️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚜️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+EqhXLhL3T1w4Zjc1'),
-            InlineKeyboardButton('💠 CHAИИΞL 💠', url='https://t.me/+veUIdIW2CQ5mOGU5')
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+02irdICknwJkYzc5'),
+            InlineKeyboardButton('💠 CHAИИΞL 💠', url='https://t.me/TEAMSAZUKI')
             ],[
             InlineKeyboardButton('💰 𝗗𝗢𝗡𝗔𝗧𝗘 💰', callback_data='source')
             ],[
@@ -435,7 +435,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://github.com/Aadhi000/Ajax')
+            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://t.me/NOKKIERUNNOEPPPKITTUM')
             ],[
             InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close_data')
