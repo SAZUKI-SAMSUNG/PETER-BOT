@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/SAZUKI-SAMSUNG/Ajax",
+    "repository": "https://github.com/SAZUKI-SAMSUNG/Ajax",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
