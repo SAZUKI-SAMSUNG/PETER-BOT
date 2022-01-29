@@ -89,7 +89,6 @@ async def start(client, message):
             InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about')
             ],[
             InlineKeyboardButton('𝙸𝙽𝙻𝙸𝙽𝙴', switch_inline_query_current_chat='')
-            InlineKeyboardButton("🕵️‍♂️ Search On Google 🕵️‍♂️", url=f"https://google.com/search?q={search}")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
