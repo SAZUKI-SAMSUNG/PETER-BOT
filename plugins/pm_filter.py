@@ -403,7 +403,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙶𝚁𝙾𝚄𝙿', url='https://t.me/+02irdICknwJkYzc5'),
             InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/TEAMSAZUKI')
             ],[
-            InlineKeyboardButton('𝙷𝙴𝙻𝙻', callback_data='help'),
+            InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about')
             ],[
             InlineKeyboardButton('𝙸𝙽𝙻𝙸𝙽𝙴', switch_inline_query_current_chat='')
