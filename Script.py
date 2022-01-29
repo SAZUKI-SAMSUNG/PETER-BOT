@@ -100,17 +100,16 @@ This module only works for my OᗯᑎEᖇ⚡
 ➾ /roll  - <code>to roll a only admins.</code>
 ➾ /channel - <code>to get list of total connected channels</code>
 ➾ /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """✮ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-✮ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-✮ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-✮ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-✮ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """➪ 𝗙𝗜𝗟𝗜𝗠𝗦: <code>{}</code>
+➪ 𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒: <code>{}</code>
+➪ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒: <code>{}</code>
+➪ 𝐔𝐒𝐄𝐃 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱
+➪ 𝐅𝐑𝐄𝐄 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
-✮ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
-✮ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
-✮ 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ›› {}
+➪ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
+➪ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>➪✮ 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ›› {}
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
-✮ 𝐈𝐃 ›› <code>{}</code>
-✮ 𝐍𝐚𝐦𝐞 ›› {}
+➪ 𝐈𝐃 ›› <code>{}</code>
+➪ 𝐍𝐚𝐦𝐞 ›› {}
 """
