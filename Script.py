@@ -10,6 +10,7 @@ class script(object):
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/TEAM_KERALA"> ➪𝚂𝙰𝚉𝚄𝙺𝙸✞︎🇮🇳[OFFLINE] </a>
 ║┣⪼ 𝙴𝙳𝙸𝚃𝙸𝙽𝙶 - <a href="https://t.me/TEAM_KERALA"> ➪𝚂𝙰𝚉𝚄𝙺𝙸✞︎🇮🇳[OFFLINE] </a>
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/Peter_parker_10"> 𝙿𝙴𝚃𝙴𝚁✞︎🇮🇳[OFFLINE] </a>
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 - <a href="https://t.me/pushpa_Reju"> ᵗᵍ𝕻𝖚𝖘𝖍𝖕𝖆𝕽𝖊𝖏𝖚 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
