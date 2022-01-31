@@ -40,7 +40,6 @@ async def start(client, message):
             InlineKeyboardButton(' 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝙰 𝙲𝙷𝙰𝚃 𝙶𝚁𝚄𝙾𝙿 ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton(' 𝙶𝚁𝙾𝚄𝙿 ', url='https://t.me/+02irdICknwJkYzc5'),
-            InlineKeyboardButton(' 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ', url='https://t.me/TEAM_KERALA'),
             ],[
             InlineKeyboardButton(' 𝙷𝙴𝙻𝙿 ', callback_data='help'),
             InlineKeyboardButton(' 𝙰𝙱𝙾𝚄𝚃', callback_data='about')
