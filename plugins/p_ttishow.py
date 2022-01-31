@@ -55,7 +55,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>𝐇𝐄𝐘 {u.mention}⚡𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 {message.chat.title}!</b>") 𝐓𝐍𝐗 𝐅𝐎𝐑 𝐉𝐎𝐈𝐍
+            temp.MELCOW['welcome'] = await message.reply(f"<b>𝐇𝐄𝐘 {u.mention}⚡𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 {message.chat.title}!</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
