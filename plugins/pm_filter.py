@@ -401,11 +401,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝙰 𝙲𝙷𝙰𝚃 𝙶𝚁𝚄𝙾𝙿', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('𝙶𝚁𝙾𝚄𝙿', url='https://t.me/+02irdICknwJkYzc5'),
-            InlineKeyboardButton('𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/TEAMSAZUKI')
+            InlineKeyboardButton('𝙾𝚆𝙽𝙴𝚁', url='https://t.me/TEAM_KERALA'),
             ],[
             InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about')
             ],[
+            InlineKeyboardButton('𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁', url='https://t.me/TEAM_KERALA'),
             InlineKeyboardButton('𝙸𝙽𝙻𝙸𝙽𝙴', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
