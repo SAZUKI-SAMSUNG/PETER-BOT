@@ -90,6 +90,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/BKC0001)                                                                                                                                        
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [➪𝚂𝙰𝚉𝚄𝙺𝙸ㅤ𝚂𝙰𝙼𝚂𝚄𝙽𝙶✞︎🇮🇳[OFFLINE]](https://t.me/TEAM_KERALA)                                                                                                                                        
 𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/MoviesWorld_Group)                                             
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Minnal_Murali2021HD)
