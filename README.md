@@ -96,6 +96,7 @@ python3 bot.py
 ```
 
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [➪𝚂𝙰𝚉𝚄𝙺𝙸ㅤ𝚂𝙰𝙼𝚂𝚄𝙽𝙶✞︎🇮🇳[OFFLINE]](https://t.me/TEAM_KERALA)
-𝙴𝙳𝙸𝚃𝙾𝚁  -  [𝙿𝚄𝚂𝙷𝙿𝙰𝚁𝙴𝙹𝚄-𝚃𝙶] (https://t.me/pushpa_reju)                                                                                                                                       
+
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙿𝚄𝚂𝙷𝙿𝙰𝚁𝙴𝙹𝚄-𝚃𝙶[OFFLINE]](https://t.me/pushpa_Reju)                                                                                                                                       
 𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/MoviesWorld_Group)                                             
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Minnal_Murali2021HD)
