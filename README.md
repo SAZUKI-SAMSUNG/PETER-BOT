@@ -50,6 +50,11 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+#Deploy on Railway
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FSAZUKI-SAMSUNG%2FPETER-BOT&envs=API_ID%2CAPI_HASH%2CAPI_ID%2CAUTH_CHANNEL%2CAUTH_USERS%2CBOT_TOKEN%2CCACHE_TIME%2CCOLLECTION_NAME%2CCUSTOM_FILE_CAPTION%2CDATABASE_NAME%2CDATABASE_URI%2CIMDB%2CIMDB_TEMPLATE%2CLOG_CHANNEL%2CP_TTI_SHOW_OFF%2CPICS%2CSINGLE_BUTTON%2CSUPPORT_CHAT%2CUSE_CAPTION_FILTER&optionalEnvs=AUTH_CHANNEL%2CAUTH_USERS%2CCACHE_TIME%2CCOLLECTION_NAME%2CCUSTOM_FILE_CAPTION%2CDATABASE_NAME%2CIMDB%2CIMDB_TEMPLATE%2CP_TTI_SHOW_OFF%2CPICS%2CSINGLE_BUTTON%2CSUPPORT_CHAT&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&AUTH_CHANNELDesc=Username+or+ID+of+users+to+give+access+of+inline+search.+Separate+multiple+users+by+space.+Leave+it+empty+if+you+don%27t+want+to+restrict+bot+usage.&AUTH_USERSDesc=Username+or+ID+of+users+to+give+access+of+inline+search.+Separate+multiple+users+by+space.+Leave+it+empty+if+you+don%27t+want+to+restrict+bot+usage.&BOT_TOKENDesc=Your+bot+token.&CACHE_TIMEDesc=The+maximum+amount+of+time+in+seconds+that+the+result+of+the+inline+query+may+be+cached+on+the+server&COLLECTION_NAMEDesc=Name+of+the+collections.+Defaults+to+Telegram_files.+If+you+are+using+the+same+database%2C+then+use+different+collection+name+for+each+bot&CUSTOM_FILE_CAPTIONDesc=Add+any+text+or+caption+for+files+in+the+bot&DATABASE_NAMEDesc=Name+of+your+database+eg%3A%28pushpareju%3Bsazuki%29&DATABASE_URIDesc=MongoDB+uri.+++Or+MongoDB+link&IMDBDesc=Imdb%2C+the+view+of+information+when+making+True%2FFalse&IMDB_TEMPLATEDesc=Custom+IMDB+Template.++Add+any+caption+for+moviephoto+with+caption&LOG_CHANNELDesc=Bot+Logs%2CGive+a+channel+id+with+-100xxxxxxx&P_TTI_SHOW_OFFDesc=Customize+Result+Buttons+to+Callback+or+Url+by+%28True+%3D+url+%2F+False+%3D+callback%29&PICSDesc=Add+some+telegraph+link+of+pictures+.&SINGLE_BUTTONDesc=choose+b%2Fw+single+or+double+buttons+&SUPPORT_CHATDesc=Username+of+a+Support+Group+%2F+ADMIN.+%28+Should+be+username+without+%40+and+not+ID%29&USE_CAPTION_FILTERDesc=Whether+bot+should+use+captions+to+improve+search+results.+%28True+False%29&referralCode=Tgpushpareju)
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
