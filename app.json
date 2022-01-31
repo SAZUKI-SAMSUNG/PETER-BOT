@@ -73,7 +73,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
-            "value": "Cluster"
+            "value": "Cluster",
             "required": false
         },
         "COLLECTION_NAME": {
