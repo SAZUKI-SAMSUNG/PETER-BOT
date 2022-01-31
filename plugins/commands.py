@@ -38,7 +38,8 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton(' 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝙰 𝙲𝙷𝙰𝚃 𝙶𝚁𝚄𝙾𝙿 ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            InlinekeyboardButton('𝙾𝚆𝙽𝙴𝚁', url='https://t.me/TEAM_KERALA'),
+            ],[
+            InlinekeyboardButton(' 𝙾𝚆𝙽𝙴𝚁 ', url='https://t.me/TEAM_KERALA'),
             ],[
             InlineKeyboardButton(' 𝙶𝚁𝙾𝚄𝙿 ', url='https://t.me/+02irdICknwJkYzc5'),
             InlineKeyboardButton(' 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ', url='https://t.me/TEAM_KERALA'),
