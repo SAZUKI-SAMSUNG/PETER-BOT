@@ -33,7 +33,7 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
@@ -53,11 +53,11 @@
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "required": false
+            "required": true
         },
-        "AUTH_CHANNEL": {
+        "FORCE_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "required": false
+            "required": true
         },   
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
@@ -73,6 +73,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
+            "value": "Cluster"
             "required": false
         },
         "COLLECTION_NAME": {
@@ -86,13 +87,13 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Aadhi000/Ajax/issues/22",
-            "value": "True",
+            "description": "choose b/w single or double buttons ",
+            "value": "False",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
             "description": "Customize Result Buttons to Callback or Url by (True = url / False = callback)",
-            "value": "True",
+            "value": "False",
             "required": false
         }
     },
